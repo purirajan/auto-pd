@@ -205,4 +205,6 @@ Combined with pinned dependencies in `requirements.txt` and fixed random seeds, 
 
 ---
 
-GitHub: [@purirajan](https://github.com/purirajan)
+## Disclaimer
+
+This is a personal project, built on my own time and equipment for educational purposes only. It uses only publicly available data (the OpenML German Credit dataset) and contains no proprietary data, code, models, or methodologies from any current or former employer. It is not affiliated with or endorsed by any employer, and the views and approaches here are my own. Nothing in this repository is intended for production lending decisions.

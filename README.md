@@ -205,7 +205,4 @@ Combined with pinned dependencies in `requirements.txt` and fixed random seeds, 
 
 ---
 
-## Author
-
-**Rajan Puri**, quantitative credit risk modeler learning ML engineering and cloud deployment.
 GitHub: [@purirajan](https://github.com/purirajan)
